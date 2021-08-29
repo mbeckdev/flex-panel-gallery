@@ -44,19 +44,26 @@ body {
 }
 
 .panel1 {
-  background-image: url(https://source.unsplash.com/gYl-UtwNg_I/1500x1500);
+  /* background-image: url(https://source.unsplash.com/gYl-UtwNg_I/1500x1500); */
+
+  background-image: url(https://images.unsplash.com/photo-1629820681457-985896b532ba?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDI2NDY5Nw&ixlib=rb-1.2.1&q=80&w=1500);
 }
 .panel2 {
-  background-image: url(https://source.unsplash.com/rFKUFzjPYiQ/1500x1500);
+  /* background-image: url(https://source.unsplash.com/rFKUFzjPYiQ/1500x1500); */
+  background-image: url(https://images.unsplash.com/photo-1628008631298-dcb2a4c6be5d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDI2NTQ4MA&ixlib=rb-1.2.1&q=80&w=1500);
 }
 .panel3 {
-  background-image: url(https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&w=1500&h=1500&fit=crop&s=967e8a713a4e395260793fc8c802901d);
+  /* background-image: url(https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&w=1500&h=1500&fit=crop&s=967e8a713a4e395260793fc8c802901d); */
+  background-image: url(https://images.unsplash.com/photo-1627990118269-b94a6e35e89b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDI2NTUyNA&ixlib=rb-1.2.1&q=80&w=1500);
 }
 .panel4 {
-  background-image: url(https://source.unsplash.com/ITjiVXcwVng/1500x1500);
+  /* background-image: url(https://source.unsplash.com/ITjiVXcwVng/1500x1500); */
+
+  background-image: url(https://images.unsplash.com/photo-1627933650306-e69b1ac3deeb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDI2NDc0Mg&ixlib=rb-1.2.1&q=80&w=1500);
 }
 .panel5 {
-  background-image: url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500);
+  /* background-image: url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500); */
+  background-image: url(https://images.unsplash.com/photo-1628620600676-4a3481c08021?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMDI2NDU1NQ&ixlib=rb-1.2.1&q=80&w=1500);
 }
 
 /* Flex Children */
